@@ -1,4 +1,6 @@
 # math
+
+# dy/dt
 The equation **dy/dt = ky** is a **first-order linear differential equation** and one of the most important types in math, science, and engineering. It describes **exponential growth or decay**, depending on the sign of the constant **k**.
 
 ---
@@ -43,7 +45,7 @@ The invention of logarithms was important because it transformed complex calcula
 
 4. **Foundation for Exponential Thinking**: Logarithms helped develop our understanding of exponential growth, decay, and scales like the Richter scale or decibels.
 
-Sure! A **logarithm** is a way to figure out **what power** you need to raise a number (called the **base**) to get another number.
+# A **logarithm** is a way to figure out **what power** you need to raise a number (called the **base**) to get another number.
 
 ### In simple terms:
 
@@ -127,7 +129,7 @@ Divide 1000 ÷ 100:
 
 ---
 
-**Before calculators**, people used **log tables** to find logs and antilogs, so they could multiply or divide large numbers by just adding or subtracting.
+# **Before calculators**, people used **log tables** to find logs and antilogs, so they could multiply or divide large numbers by just adding or subtracting.
 ![image](https://github.com/user-attachments/assets/6a7fe747-ae8c-4e30-add7-194add0cd96c)
 
 
@@ -174,8 +176,7 @@ $$
 
 Logarithm tables were standard tools in science, engineering, and navigation for centuries—until calculators took over in the 1970s.
 
-Would you like to see what one of those log tables looked like?
-The **difference between analog and digital** lies in **how information is represented and transmitted**:
+# The **difference between analog and digital** lies in **how information is represented and transmitted**:
 
 ---
 
