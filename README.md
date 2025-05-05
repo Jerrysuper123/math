@@ -38,6 +38,8 @@ The invention of logarithms was important because it transformed complex calcula
 2. **Enabled Scientific Progress**: Scientists like Kepler and Newton relied on logarithms to perform complex astronomical and physical calculations efficiently.
 
 3. **Led to Slide Rules**: The invention of the slide rule (a mechanical calculator) was based on logarithmic principles, becoming an essential tool for engineers for centuries.
+![image](https://github.com/user-attachments/assets/9f2a70ba-d348-4f5d-b07e-5859538112de)
+
 
 4. **Foundation for Exponential Thinking**: Logarithms helped develop our understanding of exponential growth, decay, and scales like the Richter scale or decibels.
 
@@ -126,6 +128,8 @@ Divide 1000 ÷ 100:
 ---
 
 **Before calculators**, people used **log tables** to find logs and antilogs, so they could multiply or divide large numbers by just adding or subtracting.
+![image](https://github.com/user-attachments/assets/6a7fe747-ae8c-4e30-add7-194add0cd96c)
+
 
 Great question! Let's break it down simply:
 
