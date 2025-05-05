@@ -1,5 +1,9 @@
 # math
 
+Extract from below book
+![image](https://github.com/user-attachments/assets/664c7b7b-78ad-45f6-b34c-0632c3730fa1)
+
+
 # dy/dt
 The equation **dy/dt = ky** is a **first-order linear differential equation** and one of the most important types in math, science, and engineering. It describes **exponential growth or decay**, depending on the sign of the constant **k**.
 
