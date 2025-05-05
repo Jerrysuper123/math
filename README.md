@@ -215,7 +215,7 @@ Logarithm tables were standard tools in science, engineering, and navigation for
 
 Would you like a simple diagram to show the wave difference between analog and digital?
 
-Polynomials are **practically used** in many real-life areas because they are great at modeling **patterns, changes, and curves**. Here are some examples:
+# Polynomials are **practically used** in many real-life areas because they are great at modeling **patterns, changes, and curves**. Here are some examples:
 
 ---
 
